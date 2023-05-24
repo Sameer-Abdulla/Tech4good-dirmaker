@@ -11,7 +11,8 @@ per_page: 50
 # tag = [yep, nope, etc]
 taxonomies: ["style", "mood"]
 
-site_name: "My directory site"
-site_description: "My directory site"
+site_name: "Transportation System"
+site_header: "Transportation System"
+site_description: "Our website serves as an online platform that provides information, services, and resources related to transportation. These websites are designed to offer convenience and accessibility to users seeking various transportation options, whether it's for local commuting, long-distance travel, or specialized transportation services. "
 page_title: "{category} - Directory of cool things."
 meta_description: "Directory of {category} in cool things. "
