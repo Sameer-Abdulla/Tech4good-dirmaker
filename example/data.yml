@@ -2,28 +2,56 @@
 - name: Uber
   description: Uber is a well-known ridesharing platform that allows users to book rides with drivers through their mobile app. It operates in numerous cities worldwide, providing convenient and on-demand transportation services.
   url: "https://www.uber.com/in/en/"
-  categories: [Cars]
+  categories: [Cab]
   style: [sans-serif]
   mood: [headings, oblique, paragraph, sans, grotesque, sans, humanist]
 
 - name: Lyft
   description: Lyft is a ridesharing platform that offers transportation services through their mobile app. Similar to Uber, users can book rides with drivers for local transportation needs, and Lyft operates in many cities across the United States and select locations worldwide.
   url: "https://www.lyft.com/"
-  categories: [Cars]
+  categories: [Cab]
   style: [sans-serif]
   mood: [corporate, monolinear, paragraph, sans, geometric]
   
 - name: Ola
   description:  Ola is an Indian ridesharing company that provides transportation services in cities across India. Users can book rides through the Ola mobile app.
   url: "https://www.olacabs.com/"
-  categories: [Cars]
+  categories: [Cab]
   style: [sans-serif]
   mood: [brush, comic, display, grunge, handwritten]
 
 - name: Bolt
   description: Bolt, previously known as Taxify, is a European ridesharing platform that operates in multiple cities across Europe, Africa, and other regions. It offers transportation services through its mobile app, allowing users to book rides with drivers.
   url: "https://bolt.eu/"
-  categories: [Cars]
+  categories: [Cab]
   style: [sans-serif]
   mood: [corporate, monolinear, paragraph, sans, geometric]
   
+- name: KSRTC
+  description: KSRTC is the state-owned transport corporation in Kerala, India. They provide bus services within the state, connecting various cities, towns, and villages. 
+  url: "https://www.keralartc.com/main.html"
+  categories: [Bus]
+  style: [sans-serif]
+  mood: [government]
+    
+- name: RedCoach
+  description: 
+  url: "https://www.redcoachusa.com/"
+  categories: [Bus]
+  style: [sans-serif]
+  mood: [Luxury]
+
+- name: Megabus
+  description: Megabus is a budget-friendly bus service that operates in the United States, Canada, and Europe. It offers affordable intercity transportation options and allows users to book tickets online, often with discounted fares for early bookings.
+  url: "https://www.megabus.com/"
+  categories: [Bus]
+  style: [sans-serif]
+  mood: [Budget friendly]
+
+- name: Busbud
+  description: Busbud is an online platform that aggregates bus schedules, routes, and ticketing options from various bus operators worldwide. Users can search for bus connections, compare prices, and book tickets through their website or mobile app.
+  url: "https://www.busbud.com/en-gb"
+  categories: [Bus]
+  style: [sans-serif]
+  mood: [Budget friendly]
+    
