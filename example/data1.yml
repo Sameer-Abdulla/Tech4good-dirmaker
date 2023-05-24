@@ -1,0 +1,31 @@
+---
+- name: Make My Trip
+  description: "MakeMyTrip's flight section is an online platform that allows users to search, compare, and book flights for domestic and international travel. It offers a wide range of flight options from various airlines, along with features such as fare comparisons, flexible date searches, and filters for preferred airlines, timings, and price ranges. Users can conveniently browse, select, and book flights directly through the MakeMyTrip website or mobile app."
+  url: "https://www.makemytrip.com/flights/"
+  categories: [Flight]
+  style: [sans-serif]
+
+- name: Goibibo
+  description: "Goibibo's flight service is an online platform for searching and booking flights with multiple airline options."
+  url: "https://www.goibibo.com/flights/"
+  categories: [Flight]
+  style: [sans-serif]
+
+- name: Rapido
+  description: "Rapido is a ride-hailing service that offers convenient and affordable motorcycle taxi rides for short-distance travel."
+  url: "https://rapido.bike/"
+  categories: [Cab]
+  style: [sans-serif]
+  mood: [Two-wheeler]
+
+- name: Kochi Metro
+  description: "Kochi Metro is a rapid transit system in Kochi, India, providing a convenient and efficient mode of transportation for commuters with its modern trains and well-connected network."
+  url: "https://kochimetro.org/"
+  categories: [Metro]
+  style: [sans-serif]
+
+- name: Delhi Metro
+  description: "Delhi Metro is a comprehensive urban transit system in Delhi, India, offering a vast network of trains that efficiently transport millions of passengers across the city, connecting major locations and reducing congestion."
+  url: "https://www.delhimetrorail.com/"
+  categories: [Metro]
+  style: [sans-serif]
