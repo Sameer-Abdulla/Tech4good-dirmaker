@@ -54,4 +54,10 @@
   categories: [Bus]
   style: [sans-serif]
   mood: [Budget friendly]
-    
+
+- name: Indian Railway
+  description: Busbud is an online platform that aggregates bus schedules, routes, and ticketing options from various bus operators worldwide. Users can search for bus connections, compare prices, and book tickets through their website or mobile app.
+  url: "https://www.irctc.co.in/nget/"
+  categories: [Train]
+  style: [sans-serif]
+  mood: [Budget friendly]
